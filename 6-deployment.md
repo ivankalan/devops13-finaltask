@@ -26,3 +26,5 @@ Build docker image
 
 ![Screenshot from 2022-09-29 18-01-54](https://user-images.githubusercontent.com/56712612/193014863-146a5ded-21ae-4d7f-84f3-b7a51385e395.png)
 
+Create `docker compose` 
+
