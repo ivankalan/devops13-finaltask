@@ -68,7 +68,28 @@ Check at the idch whether the vm has been created or not
 
 ![15  the result 2](https://user-images.githubusercontent.com/56712612/192977367-488007d1-3bb4-4eec-b6ae-f559ffda7c5e.png)
 
+## Install Ansible and setup firewall for all server
 
+Install Ansible
 
+![1  install ansible](https://user-images.githubusercontent.com/56712612/192979758-97bdc3e1-089c-4a82-8066-9c9c2e46d7f6.png)
 
+Install Ansible collections
 
+![2  install ansible collection for docker](https://user-images.githubusercontent.com/56712612/192979951-187f6551-d69b-45a5-94fa-c5376201c73a.png)
+
+![3  install ansible collection for terraform](https://user-images.githubusercontent.com/56712612/192979958-95eca4fb-05d8-4235-a7b2-d88729a4a5ac.png)
+
+Setup Ansible basic configuration
+
+![4  setup ansible basic configuration](https://user-images.githubusercontent.com/56712612/192980049-1faf1ee5-f4e3-416e-bf45-fc6f3f4db25d.png)
+
+![5  setup ansible basic configuration 2](https://user-images.githubusercontent.com/56712612/192980060-b6eaabed-1676-4ce7-9224-af3601ce63a0.png)
+
+Create a new file and write configuration like this
+
+![1  create configuration like this](https://user-images.githubusercontent.com/56712612/192980329-297b62d3-37ab-4671-bc30-a6619b8cf919.png)
+
+Run ansible-playbook to create ufw
+
+![2  run ansible-playbook to create ufw](https://user-images.githubusercontent.com/56712612/192980391-b275727e-fe79-48d5-b842-b3be25ca74ab.png)
